@@ -1,23 +1,26 @@
-x = 12
-y = 5
+x = 2
+y = 2
 
-result = x + y
-print (" x + y ", result)
+pangkat = x**y
 
-result = x - y
-print (" x - y ", result)
+print pangkat
+# result = x + y
+# print (" x + y ", result)
 
-result = x * y
-print (" x * y ", result)
+# result = x - y
+# print (" x - y ", result)
 
-result = x / y
-print (" x / y ", result)
+# result = x * y
+# print (" x * y ", result)
 
-result = x % y
-print (" x % y ", result)
+# result = x / y
+# print (" x / y ", result)
 
-result = x ** y
-print (" x ** y ", result)
+# result = x % y
+# print (" x % y ", result)
 
-result = x // y
-print (" x // y ", result)
+# result = x ** y
+# print (" x ** y ", result)
+
+# result = x // y
+# print (" x // y ", result)

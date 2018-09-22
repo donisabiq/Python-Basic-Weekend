@@ -1,5 +1,5 @@
-x = 12.0
-y = 5.0
+x = 12
+y = 50
 
 print (" x == y ", x == y)
 print (" x != y ", x != y)
